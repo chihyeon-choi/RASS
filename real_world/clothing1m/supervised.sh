@@ -1,0 +1,1 @@
+python ./experiment_clothing1m/Ours_supervised_clothing1m.py --imb_factor 0.1 --alpha 3.0 --tau 0.8 --constant_bce 0.001 --seed 0

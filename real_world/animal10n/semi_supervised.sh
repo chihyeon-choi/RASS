@@ -1,0 +1,2 @@
+python ./experiment_animal10n/Ours_semi_animal10n.py --imb_factor 0.1 --seed 0 --warm_up 10 --constant_bce 0.1
+python ./experiment_animal10n/Ours_semi_animal10n.py --imb_factor 0.05 --seed 0 --warm_up 10 --constant_bce 0.1
